@@ -1,0 +1,65 @@
+.logo {
+  background-image: url(../../img/logo.v.small.png);
+  background-repeat: no-repeat;
+  width: 423.4px;
+  height: 247.5px;
+  object-fit: contain;
+  position: fixed;
+  top: 5%;
+  left: 43%;
+}
+p {
+  text-align: center;
+  font-size: 24px;
+  position: relative;
+  top: 20%;
+}
+.form {
+  width: 597px;
+  height: 624px;
+  border-radius: 78px;
+  box-shadow: 0 3px 30px 0 rgba(0, 0, 0, 0.66);
+  border: solid 1px #707070;
+  background-color: #ffffff;
+  position: fixed;
+  top: 20%;
+  left: 33%;
+}
+.button {
+  width: 500px;
+  height: 82px;
+  font-family: "Changa One", sans-serif;
+  font-size: 42px;
+  font-weight: bolder;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  border-radius: 35px;
+  background-image: linear-gradient(to bottom, #fe5c26, #ef1b63);
+  position: fixed;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.footer {
+  width: 50px;
+  height: 26px;
+  font-family: "Changa One", sans-serif;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  position: fixed;
+  top: 92%;
+  left: 49%;
+}
+
+.h1 {
+  text-align: center;
+}

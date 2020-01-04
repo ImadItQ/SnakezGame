@@ -1,0 +1,13 @@
+.HighScore {
+  font-family: "Changa One", sans-serif;
+  font-size: 24px;
+  font-weight: bolder;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  position: fixed;
+  top: 13.5%;
+  left: 27%;
+}

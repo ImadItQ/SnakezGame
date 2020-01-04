@@ -1,0 +1,110 @@
+.Form {
+  width: 557px;
+  height: 524px;
+  background-image: url(../../img/tick.png), url(../../img/play-small.png);
+  background-position: 16% 88%, 90% 88%;
+  background-repeat: no-repeat, no-repeat;
+  border-radius: 38px;
+  -webkit-backdrop-filter: blur(30px);
+  backdrop-filter: blur(30px);
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  text-align: center;
+  position: fixed;
+  top: 17%;
+  left: 33%;
+}
+
+.Logosnake {
+  background-image: url("../../img/logo1.png");
+  width: 425.2px;
+  height: 178.2px;
+  object-fit: contain;
+  position: fixed;
+  top: 1%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.h1 {
+  width: 378px;
+  height: 91px;
+  font-family: "Changa One", sans-serif;
+  font-size: 50px;
+  font-weight: bolder;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  position: fixed;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* .Input {
+  width: 596px;
+  height: 112px;
+  border-radius: 35px;
+  background-color: #e5e5e5;
+  font-family: "Changa One", sans-serif;
+  font-size: 42px;
+  font-weight: bolder;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+  position: fixed;
+} */
+.footer {
+  width: 474px;
+  height: 22px;
+  font-family: "Changa One", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 4.05;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+  position: fixed;
+  top: 74%;
+  left: 35%;
+}
+.footer2 {
+  width: 50px;
+  height: 26px;
+  font-family: "Changa One", sans-serif;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  position: fixed;
+  top: 92%;
+  left: 49%;
+}
+.Button {
+  width: 500px;
+  height: 82px;
+  font-family: "Changa One", sans-serif;
+  font-size: 42px;
+  font-weight: bolder;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  border-radius: 35px;
+  background-image: linear-gradient(to bottom, #fe5c26, #ef1b63);
+  position: fixed;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,84 @@
+.Logo {
+  background-image: url("../../img/logo.png");
+  width: 579.2px;
+  height: 241.6px;
+  position: fixed;
+  top: 10%;
+  left: 35%;
+}
+.Play {
+  background-image: url("../../img/play.png");
+  background-repeat: no-repeat;
+  width: 36px;
+  height: 41.9px;
+  object-fit: contain;
+  position: fixed;
+  top: 84.5%;
+  left: 43%;
+}
+
+.Button {
+  width: 500px;
+  height: 82px;
+  font-family: "Changa One", sans-serif;
+  font-size: 42px;
+  font-weight: bolder;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  border-radius: 35px;
+  background-image: linear-gradient(to bottom, #fe5c26, #ef1b63);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.Button2 {
+  width: 500px;
+  height: 82px;
+  font-family: "Changa One", sans-serif;
+  font-size: 42px;
+  font-weight: bolder;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  border-radius: 35px;
+  background-image: linear-gradient(to bottom, #fe5c26, #ef1b63);
+  position: fixed;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.h2 {
+  width: 240px;
+  height: 50px;
+  font-family: "Changa One", sans-serif;
+  font-weight: bolder;
+  font-size: 35px;
+  line-height: 62px;
+  text-align: center;
+  color: #ffffff;
+  position: fixed;
+  top: 79.5%;
+  left: 45%;
+}
+.footer {
+  width: 50px;
+  height: 26px;
+  font-family: "Changa One", sans-serif;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  position: fixed;
+  top: 92%;
+  left: 49%;
+}
