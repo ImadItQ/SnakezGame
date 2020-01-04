@@ -1,0 +1,125 @@
+.Form {
+  width: 557px;
+  height: 524px;
+  background-image: url(../../img/tick.png), url(../../img/play-small.png);
+  background-position: 14% 90%, 89% 90%;
+  background-repeat: no-repeat, no-repeat;
+  border-radius: 38px;
+  -webkit-backdrop-filter: blur(30px);
+  backdrop-filter: blur(30px);
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  position: fixed;
+  top: 12%;
+  left: 55%;
+}
+
+.Logosnake {
+  width: 425.2px;
+  height: 178.2px;
+  background-image: url("../../img/logo-sup.png");
+  object-fit: contain;
+  position: fixed;
+  top: 13%;
+  left: 7%;
+}
+.Instructions {
+  width: 590px;
+  height: 86px;
+  font-family: "Changa One", sans-serif;
+  font-size: 22px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  position: fixed;
+  top: 40%;
+  left: 5%;
+}
+li {
+  padding: 10px;
+}
+.h1 {
+  width: 459px;
+  height: 55px;
+  background-image: url(../../img/play.png);
+  background-repeat: no-repeat;
+  background-position: 90% 10%;
+  font-family: "Changa One", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  position: fixed;
+  top: 36%;
+  left: 1%;
+}
+.Button {
+  width: 496px;
+  height: 92px;
+  font-family: "Changa One", sans-serif;
+  font-size: 42px;
+  font-weight: bolder;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  border-radius: 35px;
+  background-image: linear-gradient(to bottom, #fe5c26, #ef1b63);
+  position: fixed;
+  top: 60%;
+  left: 7%;
+}
+.footer {
+  width: 474px;
+  height: 22px;
+  font-family: "Changa One", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 4.05;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+  position: fixed;
+  top: 77%;
+  left: 30%;
+}
+.footer2 {
+  width: 50px;
+  height: 26px;
+  font-family: "Changa One", sans-serif;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.08;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  position: fixed;
+  top: 92%;
+  left: 49%;
+}
+.h2 {
+  width: 378px;
+  height: 91px;
+  font-family: "Changa One", sans-serif;
+  font-size: 50px;
+  font-weight: bolder;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  position: fixed;
+  top: 7%;
+  left: 14%;
+}

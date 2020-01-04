@@ -1,0 +1,43 @@
+.GameBack {
+  background-image: url("../../img/logo.v.small.png");
+  background-repeat: no-repeat;
+  width: 255.8px;
+  height: 107.8px;
+  object-fit: contain;
+  position: fixed;
+  top: 3%;
+  left: 0%;
+  margin: 0 auto;
+}
+.GameCanvas {
+  border-radius: 18px;
+  background: #e5e5e5;
+  width: 700px;
+  height: 500px;
+  background-repeat: repeat;
+  position: relative;
+  top: 150px;
+  left: 40px;
+}
+
+.GameButton {
+  width: 15%;
+  height: 7%;
+  border: none;
+  background-color: transparent;
+  text-align: center;
+  padding: 10px;
+  font-family: "Changa One", sans-serif;
+  font-size: 24px;
+  font-weight: bolder;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 25px;
+  background-image: linear-gradient(to bottom, #fe5c26, #ef1b63);
+  position: fixed;
+  top: 0%;
+  left: 80%;
+}

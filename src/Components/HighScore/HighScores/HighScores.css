@@ -1,0 +1,28 @@
+.HighScores {
+  font-family: "Changa One", sans-serif;
+  font-size: 24px;
+  font-weight: bolder;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  position: fixed;
+  top: 13.5%;
+  left: 67%;
+}
+
+.HighScoresList {
+  font-family: "Changa One", sans-serif;
+  font-size: 32px;
+  font-weight: bolder;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  overflow: scroll;
+  position: fixed;
+  top: 20%;
+  left: 67%;
+}
