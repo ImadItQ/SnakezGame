@@ -1,0 +1,39 @@
+.Form {
+  width: 697px;
+  height: 624px;
+  background-image: url(../../img/tick.png), url(../../img/play-small.png);
+  background-position: 16% 88%, 90% 88%;
+  background-repeat: no-repeat, no-repeat;
+  border-radius: 38px;
+  -webkit-backdrop-filter: blur(30px);
+  backdrop-filter: blur(30px);
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  box-sizing: border-box;
+  align-items: center;
+  position: fixed;
+  top: 17%;
+  left: 30%;
+}
+.Button {
+  width: 70%;
+  height: 112px;
+  border: none;
+  border-radius: 35px;
+  box-sizing: border-box;
+  font-family: "Changa One", sans-serif;
+  font-size: 42px;
+  font-weight: bolder;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: black;
+  padding: 10px;
+  margin: 10px;
+  background-image: linear-gradient(to bottom, #fe5c26, #ef1b63);
+}
+.Button:first-of-type {
+  margin-left: 0;
+  padding-left: 0;
+}

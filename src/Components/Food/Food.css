@@ -1,0 +1,8 @@
+.Food {
+  position: absolute;
+  width: 2%;
+  height: 2%;
+  background: #ef1b63;
+  border: 1px solid darkred;
+  z-index: 1;
+}
